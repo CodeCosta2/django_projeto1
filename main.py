@@ -1,4 +1,1 @@
-print('Hello World!')
-
-print('Olá pessoal!')
-print('Tudo bem com vocês?')
+print('Hello guys! My name is Lucas!')
